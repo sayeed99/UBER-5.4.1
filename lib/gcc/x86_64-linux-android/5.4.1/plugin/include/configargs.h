@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "../GCC-UBER/configure --target=x86_64-linux-android --prefix=/home/cyborg/zenfone/newTC/output/x86_64/x86_64-linux-android --host=x86_64-linux-gnu --build=x86_64-linux-gnu --with-gnu-ld --with-gnu-as --enable-languages=c,c++ --enable-cloog-backend=isl --enable-bionic-libs --enable-libatomic-ifuncs=no --program-transform-name='s&^&x86_64-linux-android-&' --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --disable-libssp --enable-threads --disable-nls --disable-libmudflap --disable-libstdc__-v3 --disable-sjlj-exceptions --disable-shared --disable-tls --disable-libitm --with-arch=x86-64 --with-tune=intel --with-fpmath=sse --with-multilib-list=m32,m64,mx32 --enable-initfini-array --disable-nls --with-sysroot=/home/cyborg/zenfone/newTC/arch-x86_64 --with-gxx-include-dir=/home/cyborg/zenfone/newTC/arch-x86_64/c++/5.x.x --with-python --with-bugurl=sayeed.afridi2009@gmail.com --disable-bootstrap --enable-plugins --enable-libgomp --enable-gnu-indirect-function --disable-libcilkrts --disable-libsanitizer --enable-threads --enable-gold --enable-gold=default --enable-graphite=yes --disable-werror --enable-eh-frame-hdr-for-static";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "generic" }, { "arch", "x86-64" }, { "tune", "intel" } };
